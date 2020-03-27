@@ -42,7 +42,10 @@ function onPause(){
 function onStop(){
     clearInterval(timerInterval);
     timerInterval = undefined;
-    renderTime(second = 0, minute = 0, hour = 0);
+    second = 0;
+    minute = 0;
+    hour = 0;
+    renderTime();
 }
 
 function onRestart(){
