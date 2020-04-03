@@ -9,4 +9,6 @@ The stop button will completely stop the timer and pressing the start button wil
 
 Lastly, the user can use the reset button to reset the timer.
 
+Demo: https://shovaaa.github.io/drum-kit/
+
 ![](images/stopwatch-screenshot.png)
